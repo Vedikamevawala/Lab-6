@@ -13,6 +13,8 @@ h1 {
   font-family: 'Roboto Slab', serif;
   padding: 6px;
   font-weight: bold;
+  border: 1px dotted darkblue; 
+
 }
 
 .planet-img {
