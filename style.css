@@ -1,0 +1,17 @@
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 700;
+  font-size: large;
+  text-align: center;
+  color: antiquewhite;
+}
+
+#planets {
+  text-align: center;
+  color: azure;
+  font-size: 16pt;
+  font-family: 'Roboto Slab', serif;
+  padding: 6px;
+  font-weight: bold;
+}
+
